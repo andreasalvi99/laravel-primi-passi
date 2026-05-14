@@ -9,6 +9,15 @@
 
     <h1>Questa è la prima homepage fatta con laravel</h1>
     <p>Hello wolrd</p>
+
+    <h2>Ecco una lista di cose che possiamo fare:</h2>
+
+    <ul>
+        <li>Studiare la struttura dei file</li>
+        <li>Capire la logica di Routing</li>
+        <li>Creare la nostra homepage</li>
+        <li>Creare il nostro progetto</li>
+    </ul>
     
 </body>
 </html>
