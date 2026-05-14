@@ -7,7 +7,8 @@
 </head>
 <body>
 
-<h1>Questa è la prima homepage fatta con laravel</h1>
+    <h1>Questa è la prima homepage fatta con laravel</h1>
+    <p>Hello wolrd</p>
     
 </body>
 </html>
