@@ -3,7 +3,8 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('home');
+    $prodotto = "mouse";
+    return view('home', compact("prodotto"));
 });
 
 Route::get('/prodotti', function () {

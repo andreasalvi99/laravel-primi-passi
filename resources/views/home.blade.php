@@ -19,6 +19,8 @@
         <li>Creare il nostro progetto</li>
     </ul>
 
+    <p>{{$prodotto}}</p>
+
     <a href="{{ route('prodotti') }}">Vai ai prodotti</a>
     <a href="{{ route('contatti') }}">Vai ai contatti</a>
 </body>
